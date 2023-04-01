@@ -1,6 +1,7 @@
 # checkstyle: noqa
 
 INDEX_BY_LABEL = {
+  "is_not_clicked": 0,
   "is_clicked": 1,
   "is_favorited": 2,
   "is_open_linked": 3,
